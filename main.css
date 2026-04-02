@@ -19,6 +19,7 @@ p {
 
 /* Header Styles */
 div {
-  background-color: darkcyan;
+  /* change to blue */
+  background-color: blue;
   text-align: right;
 }
